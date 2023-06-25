@@ -2,7 +2,7 @@
 
 ## Web developer
 
-I am a developer, learning different languages and technologies for more than 2.5 years. But recently I found my true self in web development, and I specialize in front-end development. I have knowledge and skills in HTML, CSS and JavaScript and can create beautiful and responsive interfaces using modern frameworks and libraries such as React or Vue, but I mainly develop with React.
+I am a developer, learning different programming languages and technologies for more than 2.5 years. But recently I found my true self in web development, and I specialize in front-end development. I have knowledge and skills in HTML, CSS and JavaScript and can create beautiful and responsive interfaces using modern frameworks and libraries such as React or Vue, but I mainly develop with React.
 
 In addition, I also have a basic level in back-end development. Many of my learning projects are Fullstack applications. I am very familiar with Node.js and have experience with databases including MySQL and MongoDB.
 
