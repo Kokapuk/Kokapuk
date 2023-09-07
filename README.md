@@ -12,7 +12,7 @@ I am constantly striving for self-development and discovering new challenges, le
 
 - 🌍  I'm based in Ukraine 🇺🇦
 - ✉️  You can contact me at [yarik.pavlov.971@gmail.com](mailto:yarik.pavlov.971@gmail.com)
-- 🤝  I'm open to collaborating on interesting projects
+<!--- 🤝  I'm open to collaborating on interesting projects-->
 
 ### Skills
 
